@@ -3,11 +3,11 @@
   'case-sensitive': 'false',
   'roots': [{
     'type': 'directory',
-    'name': '/Users/tikhonov/Documents/iOS/GitHub/ATTextField/Example/build/Debug-iphoneos/ATTextField/ATTextField.framework/Modules'
+    'name': '/Users/NRokudaime/Documents/Development/iosDevelopment/attexfield/Example/build/Debug-iphoneos/ATTextField/ATTextField.framework/Modules'
     'contents': [{
       'type': 'file',
       'name': 'module.modulemap',
-      'external-contents': '/Users/tikhonov/Documents/iOS/GitHub/ATTextField/Example/build/Pods.build/Debug-iphoneos/ATTextField.build/unextended-module.modulemap',
+      'external-contents': '/Users/NRokudaime/Documents/Development/iosDevelopment/attexfield/Example/build/Pods.build/Debug-iphoneos/ATTextField.build/unextended-module.modulemap',
     }]
   }]
 }
